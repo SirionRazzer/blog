@@ -113,3 +113,5 @@ feed:
   order_by: -date
   icon: icon.png
   autodiscovery: true
+  branch: 'master'
+
