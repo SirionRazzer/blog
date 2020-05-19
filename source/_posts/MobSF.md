@@ -1,11 +1,9 @@
 ---
 title: 'Android: Release shamelessly, outrun a hacker'
 date: 2020-05-18 23:24:09
-tags: android, pentesting
+tags: ['android', 'pentesting']
 ---
-
-# Android: Release shamelessly, outrun a hacker
-## Keep an eye on attack vectors with MobSF
+# Keep an eye on attack vectors with MobSF
 Your shiny new Android app is almost done and you are heading for release. Your most valuable assets are baked inside your app, yet there is one last crucial measurement your app should undertake to ensure its security.
 
 The plethora of insecure practices developers were not aware of during the development process as well as hidden weaknesses inside third-party dependencies may create a serious security hole inside the final product. Once you publish your app anyone can reverse engineer it and extract any secrets. This can lead to security breach on the backend side or data leak from app’s storage. Moreover any app can be repackaged with attacker’s malicious code and released on Google Play to lure your customers away.
@@ -21,8 +19,10 @@ $ cd Mobile-Security-Framework-MobSF
 $ ./setup.sh
 ```
 2. Open Dashboard at localhost:8000 and upload your apk file
+{% asset_img MobSF_upload.png Upload apk file %}
 
 3. Wait till the scanning finishes and evaluate report
+{% asset_img MobSF_dashboard.png This is an example image %}
 
 Being a developer you should focus on these parts:
 - Security Score
