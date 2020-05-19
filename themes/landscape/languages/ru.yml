@@ -1,19 +1,37 @@
-categories: Категории
-search: Поиск
-tags: Метки
-tagcloud: Облако меток
-tweets: Твиты
-prev: Назад
-next: Вперед
-comment: Комментарии
-archive_a: Архив
-archive_b: "Архив: %s"
-page: Страница %d
-recent_posts: Недавние записи
-newer: Следующий
-older: Предыдущий
-share: Поделиться
-powered_by: Создано с помощью
-rss_feed: RSS-каналы
-category: Категория
-tag: Метка
+common:
+    archive:
+        one: 'архив'
+        other: 'архивы'
+    category:
+        one: 'категории'
+        other: 'категории'
+    tag:
+        one: 'тег'
+        other: 'теги'
+    post:
+        one: 'пост'
+        other: 'посты'
+    prev: 'Назад'
+    next: 'Далее'
+widget:
+    follow: 'Подписаться'
+    recents: 'недавние'
+    links: 'ссылки'
+    tag_cloud: 'облако тегов'
+    catalogue: 'Каталог'
+article:
+    more: 'Читать дальше'
+    comments: 'Комментарии'
+    read: 'read'
+    about: 'About'
+    words: 'words'
+search:
+    search: 'Search'
+    hint: 'Введите что-нибудь...'
+insight:
+    hint: 'Введите что-нибудь...'
+    posts: 'посты'
+    pages: 'страницы'
+    categories: 'категории'
+    tags: 'теги'
+    untitled: '(Без названия)'

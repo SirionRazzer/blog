@@ -1,19 +1,37 @@
-categories: カテゴリ
-search: 検索
-tags: タグ
-tagcloud: タグクラウド
-tweets: ツイート
-prev: 戻る
-next: 次へ
-comment: コメント
-archive_a: アーカイブ
-archive_b: "アーカイブ: %s"
-page: ページ %d
-recent_posts: 最近の投稿
-newer: 次の記事
-older: 前の記事
-share: 共有
-powered_by: Powered by
-rss_feed: RSSフィード
-category: カテゴリ
-tag: タグ
+common:
+    archive:
+        one: 'アーカイブ'
+        other: 'アーカイブ'
+    category:
+        one: 'カテゴリ'
+        other: 'カテゴリ'
+    tag:
+        one: 'タグ'
+        other: 'タグ'
+    post:
+        one: '投稿'
+        other: '投稿'
+    prev: '前'
+    next: '次'
+widget:
+    follow: 'フォローする'
+    recents: '最近の記事'
+    links: 'リンク'
+    tag_cloud: 'タグクラウド'
+    catalogue: 'カタログ'
+article:
+    more: 'Read More'
+    comments: 'コメント'
+    read: 'read'
+    about: 'About'
+    words: 'words'
+search:
+    search: 'Search'
+    hint: 'Type something...'
+insight:
+    hint: 'Type something...'
+    posts: '投稿'
+    pages: 'Pages'
+    categories: 'カテゴリ'
+    tags: 'タグ'
+    untitled: '(Untitled)'
