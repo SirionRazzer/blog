@@ -2,6 +2,9 @@
 title: 'Android: Release shamelessly, outrun a hacker'
 date: 2020-05-18 23:24:09
 tags: ['android', 'pentesting']
+categories:
+- dev
+- android
 ---
 # Keep an eye on attack vectors with MobSF
 Your shiny new Android app is almost done and you are heading for release. Your most valuable assets are baked inside your app, yet there is one last crucial measurement your app should undertake to ensure its security.
