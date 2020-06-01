@@ -285,9 +285,9 @@ plugins:
     gallery: true
     # Google Analytics plugin settings
     # https://analytics.google.com
-    #google_analytics:
+    google_analytics:
         # Google Analytics tracking ID
-        #tracking_id: 
+        tracking_id: G-NPGNR8H66B
     # Hotjar user feedback plugin
     # https://www.hotjar.com/
     hotjar:
