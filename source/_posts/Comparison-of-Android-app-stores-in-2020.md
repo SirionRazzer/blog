@@ -9,6 +9,7 @@ categories:
 # WORK IN PROGERESS
 
 ## Welcome to the monopoly
+This article aims to answer common questions about possibilities of android app distribution. As of 2020 there exist many app stores and other ways to be chosen from. On the other hand there is not many full fledged solutions available. It is quite easy to distribute an app on its own, yet dealing with the further updates or monetizations narrows down these options to onlya few big houses. Obligatory choice is still Google Play, which provides the most complete services to manage your app's distribution. With some drawbacks there are also Samsung's Galaxy App Store, Huawei's AppGallery, Xiaomi' GetApps and Amazon's AppStore. These come preinstlla	
 
 - ApkMirror
 Hostuje APKčka
@@ -26,6 +27,10 @@ apkm (asi obdoba app bundlui).
 instalace nativním instalačním dialogem
 
 supports App Bundles (Dynamic Delivery)
+
+Oppo/Vivo/Lenovo
+https://www.cnet.com/news/huawei-xiaomi-vivo-and-oppo-reportedly-to-join-forces-against-google-play-store/v 
+
 
 - Huawei AppGallery
 preinstaled on
