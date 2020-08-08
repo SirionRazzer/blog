@@ -91,51 +91,19 @@ Open source client for the Play Store. Tries to provide complete distribution sy
 ## FDroid
 F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates.
 
-## <h2 id="emm">Android Enterprise Mobility Management (by Google)</h2>
-Glossary https://androidenterprisepartners.withgoogle.com/glossary/emm/
+F-Droid enables to add own repository, which can be useful for ditributing private apps inside companies.
 
+# Xiaomi/Oppo/Vivo/Lenovo
+These chinese manufacturers would like to [enter western markets](https://www.cnet.com/news/huawei-xiaomi-vivo-and-oppo-reportedly-to-join-forces-against-google-play-store) with their app stores also, but their app stores are not operable yet.
 
-Private apps are automatically approved when published, but aren't automatically available to a user unless an enterprise IT admin explicitly grants them access to all approved apps
+# <h2 id="emm">Android Enterprise Mobility Management (by Google)</h2>
 
-Android's enterprise features provide organizations with a secure, flexible, and unified Android mobility platform—combining devices, applications, and management. Android apps are compatible with Android's enterprise features by default.
--- for developerss  Build For Enterprise https://developer.android.com/work/guide
--- private apps how to for developers https://developers.google.com/android/work/play/custom-app-api/publish
+[Android EMM](https://androidenterprisepartners.withgoogle.com/glossary/emm/) is useful for companies already using G Suite or Cloud Identity.
 
+Private apps are automatically approved when published, but aren't automatically available to a user unless an enterprise IT admin explicitly grants them access to all approved apps. EMM covers management of custom devices (Zebra, Panasonic Toughbook, ...), applications, and management. Android apps are compatible with Android's enterprise features by default. Each G Suite or Cloud Identity account is associated with exactly one [Organization](https://cloud.google.com/resource-manager/docs/creating-managing-organization
+). An Organization is associated with exactly one domain, which is set when the Organization resource is created.
 
-https://androidenterprisepartners.withgoogle.com/
-Remote device management
-https://androidenterprisepartners.withgoogle.com/emm/
+EMM is used often with work profiles. Enterprises have control over all data and security policies within the work profile. Outside the work profile, the device remains suitable for personal use—ideal for BYOD deployments.
 
-Once you have created your G Suite or Cloud Identity account and associated it with a domain, your organization resource will be automatically created for you. The resource will be provisioned at different times depending on your account status:
-
-Each G Suite or Cloud Identity account is associated with exactly one Organization. An Organization is associated with exactly one domain, which is set when the Organization resource is created.
-https://cloud.google.com/resource-manager/docs/creating-managing-organization
-
-
--- managed Google Play Account
-https://support.google.com/googleplay/work/answer/6137769?hl=en
-
-Devices
--- Zebra, Panasonic Toughbook
-
-Work profiles
--- Enables platform-level separation of work apps and data. Enterprises have control over all data and security policies within the work profile. Outside the work profile, the device remains suitable for personal use—ideal for BYOD deployments.
-Work app management
--- Benefit from Android's full suite of enterprise app management capabilities, including silent app distribution, private app support, and more.
-
-
-
-Oppo/Vivo/Lenovo
-https://www.cnet.com/news/huawei-xiaomi-vivo-and-oppo-reportedly-to-join-forces-against-google-play-store
-
-# Market share
-
-## HMS vs GMS
-HMS dostupne z GooglePlay
-
-## Comparison
-- Quick Apps (huawei AppGallery)
-- Instant Apps (google play)
-
-## Conclusion
+# Conclusion
 Hopefuly I helped you to get orientated in the Android app distribution options. I have tried to cover all options I am aware of. If you wish to point out another method you are welcome to discuss below :) .
