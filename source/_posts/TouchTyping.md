@@ -6,7 +6,9 @@ thumbnail: /gallery/thumbnails/header3.png
 categories:
 - reflection
 ---
-Happy Sunday!
+92 Keys, Falcon 9, Drawing by Ryan Joseph. Happy Sunday!
+
+<!-- more -->
 
 # 92 keys
 Since I bought a new mechanical keyboard last week I have been ecstatic about it. I have chosen cheap Rapoo VPRO V500 with black switches. I opted for tenkeyless layout to save some space. I am used to use number row, the missing number pad is not an issue for me. There actually weren't many options since I dislike rainbow backlight and gaming appearance.

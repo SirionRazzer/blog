@@ -10,6 +10,8 @@ categories:
 
 This is not a tutorial, but a quick write-up about the simplicity of tools which can be used to publish simple single page application nowadays. I have used this approach a few times when someone asked me to build an editable table of items (i.e. upcoming events) without special requirements. I wouldn't recommend this approach for anything more serious.
 
+<!-- more -->
+
 ## Tooling
 
 - [html5up](https://html5up.net/) as a responsive HTML template
