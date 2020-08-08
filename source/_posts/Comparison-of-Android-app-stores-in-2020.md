@@ -2,12 +2,13 @@
 title: Comparison of Android app stores in 2020
 date: 2020-07-30 21:18:07
 tags: ['android', 'deployment']
+thumbnail: /gallery/thumbnails/header.png
 categories:
 - dev
 - android
 ---
 # Welcome to the monopoly
-This article aims to answer common questions about possibilities of android app distribution. As of 2020 there exist many app stores and other ways to be chosen from. On the other hand there is not many full fledged solutions available. It is quite easy to distribute an app on its own, yet dealing with the further updates or monetizations narrows down these options to onlya few big houses. Obligatory choice is still Google Play, which provides the most complete services to manage your app's distribution. With some drawbacks there are also Samsung's Galaxy App Store, Huawei's AppGallery, Xiaomi' GetApps and Amazon's AppStore. These come preinstlla	
+This article aims to answer common questions about possibilities of android app distribution. As of 2020 there exist many app stores and other ways to be chosen from. On the other hand there are not many full fledged solutions available. It is quite easy to distribute an app on its own, yet dealing with further updates or the monetization narrows down these options to only few big houses. Obligatory choice is still Google Play, which provides the most complete services to manage your app's distribution. With some drawbacks there are also Samsung's Galaxy App Store, Huawei's AppGallery, Xiaomi' GetApps and Amazon's AppStore. These come preinstlla	
 
 ## FAQ
 
@@ -176,7 +177,8 @@ Work app management
 
 
 ## Epic https://www.epicgames.com/fortnite/en-US/mobile/android/get-started
-* PUBG revenue
+https://techcrunch.com/2018/09/07/fortnite-hits-15-million-installs-on-android/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAACRvmvDp_QEkxeLSrF_Mgxnf-z6x4Qd53T5QPQDcgS4EhL7pspZ3fL5epJNN-IcygCfwDExuEQPXoRp3LzJyLONbM5dQmDGHZwALkIeWCjrP6qi4AbOdVk6Bv0bfQ9gfNdMN0pHhSJs1BjTLYE5P5oPYFoKYRDNS8UT-adGw0mDM
+* Fortnite revenue
 ## Email
 
 # Market share
@@ -185,7 +187,7 @@ Work app management
 HMS dostupne z GooglePlay
 
 ## Comparison
-- Quick Apps (huawei appstore)
+- Quick Apps (huawei AppGallery)
 - Instant Apps (google play)
 
 ## Cover your enterprise needs

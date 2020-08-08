@@ -2,6 +2,7 @@
 title:  Sunday Reflection
 date: 2020-05-31 14:11:47
 tags: ['touch typing', 'life', 'HW']
+thumbnail: /gallery/thumbnails/header3.png
 categories:
 - reflection
 ---

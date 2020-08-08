@@ -2,6 +2,7 @@
 title: 'Android: Release shamelessly, outrun a hacker'
 date: 2020-05-18 23:24:09
 tags: ['android', 'pentesting']
+thumbnail: /gallery/thumbnails/header2.png
 categories:
 - dev
 - android
