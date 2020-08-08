@@ -1,5 +1,5 @@
 ---
-title: Comparison of Android app stores in 2020
+title: Android App Distribution Options in 2020
 date: 2020-07-30 21:18:07
 tags: ['android', 'deployment', 'APK', 'Google Play', 'infosec']
 thumbnail: /gallery/thumbnails/header.png
@@ -7,7 +7,7 @@ categories:
 - dev
 - android
 ---
-# Welcome to the monopoly
+# Play Store? Huawei AppGallery? Custom updater?
 This article aims to answer common questions about possibilities of android app distribution. I try to compare various ways of installation which can be interesting for non-public apps. I also examine relevant app stores to summarize their possibilities and limitations. The monetization, advertisement and related business aspects are taken just briefly. Beware - market situation is taken from the US/EU viewpoint. The regional situation in Russia, China or India is beyond my knowledge.
 
 <!-- more -->
@@ -106,4 +106,4 @@ Private apps are automatically approved when published, but aren't automatically
 EMM is used often with work profiles. Enterprises have control over all data and security policies within the work profile. Outside the work profile, the device remains suitable for personal use—ideal for BYOD deployments.
 
 # Conclusion
-Hopefuly I helped you to get orientated in the Android app distribution options. I have tried to cover all options I am aware of. If you wish to point out another method you are welcome to discuss below :) .
+Hopefuly I helped you to get orientated in Android app distribution options. I have tried to cover all options I am aware of. If you wish to point out another method you are welcome to discuss below :) .
