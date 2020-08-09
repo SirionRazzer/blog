@@ -78,7 +78,7 @@ Android Emulator designed to enable Android applications to run on PCs running M
 
 ## Aptoide 
 [Aptoide](https://en.aptoide.com/) develops a custom [Catappult](https://catappult.io) platform to distribute apps to many stores at once. They push their own cryptocurrency Appcoin. Unfortunately, they are often accused [link 1](https://www.reddit.com/r/Android/comments/f406ne/appcoins_scam_at_aptoide_market/
-), [link 2](https://www.reddit.com/r/androiddev/comments/ewijj0/some_store_named_catappult_is_redistributing_my/)) of piracy/redistribution with own ads. They distribute apps to over [300 million] (https://en.aptoide.com/company/developers) users.
+), [link 2](https://www.reddit.com/r/androiddev/comments/ewijj0/some_store_named_catappult_is_redistributing_my/)) of piracy/redistribution with own ads. They distribute apps to over [300 million](https://en.aptoide.com/company/developers) users.
 
 ## Uptodown
 [Uptodown](https://en.uptodown.com/android) provides likable interface and also comes with some sort of developer zone. They claim to have [120 million](https://en.uptodown.com/oem) unique users each month, which seems quite impressive.
