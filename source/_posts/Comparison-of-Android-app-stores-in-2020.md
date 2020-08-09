@@ -37,6 +37,12 @@ Yes, an APK can be distributed privately via Play Store to (1) selected organiza
 ### Is it safe to distribute an APK by email?
 No. APK file can be easily harmed. Gmail prohibits sending APKs, additionally, email extension size is usually limited to 4 MB (Gmail is not),  which is not enough for regular APK.
 
+Cons:
+* no APK update management
+* issues caused by antivirus SW reporting unknown binary files
+* no integrity checks
+* user can't verify APK's origin
+
 ### Is an APK safe against piracy?
 No. APKs are commonly pirated and shared on alternative/shady app stores. Hardcoded keys can be extracted and input fields (passwords) spoofed. Sensitive apps should be properly audited and possibly enhanced with some sort of runtime application self-protection. Delivering optimal security at a reasonable cost is a concern of risk management. If you are unsure whether you may be hacked, always remember the rule of thumb: Risk is related with vulnerabilities, which threaten (1) confidentiality (not disclosing sensitive information), (2) integrity (preserving the state of the system), and (3) availability (we do want our systems to be up and running) of the assets. This is also known as CIA Triad.
 
