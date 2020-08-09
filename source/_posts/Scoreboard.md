@@ -1,5 +1,5 @@
 ---
-title: "Scoreboard SPA built on the cheap using mainly nocode techniques in 2 hours"
+title: "Scoreboard SPA built on the cheap in 2 hours (feat. #nocode)"
 date: 2020-07-07 23:24:09
 tags: ["jamstack", "nocode", "SPA", "JS"]
 thumbnail: /gallery/thumbnails/header1.png
