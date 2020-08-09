@@ -3,6 +3,7 @@ title: Android App Distribution in 2020
 date: 2020-07-30 21:18:07
 tags: ['android', 'deployment', 'APK', 'Google Play', 'infosec']
 thumbnail: /gallery/thumbnails/header.png
+toc: true
 categories:
 - dev
 - android
