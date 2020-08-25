@@ -20,19 +20,19 @@ As of 2020, there exist many app stores and other ways of app (APK) installation
 People often ask these questions. Some of them will be answered further down the article.
 
 ### Is it possible to distribute an app outside of any app store?
-Yes. An APK can be placed anywhere and installed once the user enables Install From Unknown Sources. Play Store (or any other store) can even take care of updates later - once there is a newer package uploaded in its repository.
+Yes. An APK can be placed anywhere and installed once the user enables Install from Unknown Sources. Play Store (or any other store) can even take care of updates later - once there is a newer package uploaded in its repository.
 
 ### Can we develop a custom updater or app store?
 Yes. Custom updaters are often offered by third-party app stores. Epic successfully distributed Fortnite (see [1](https://techcrunch.com/2018/09/07/fortnite-hits-15-million-installs-on-android/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAACRvmvDp_QEkxeLSrF_Mgxnf-z6x4Qd53T5QPQDcgS4EhL7pspZ3fL5epJNN-IcygCfwDExuEQPXoRp3LzJyLONbM5dQmDGHZwALkIeWCjrP6qi4AbOdVk6Bv0bfQ9gfNdMN0pHhSJs1BjTLYE5P5oPYFoKYRDNS8UT-adGw0mDM), [2](https://www.epicgames.com/fortnite/en-US/mobile/android/get-started)) with its own installer so they could avoid a 30% payment cut required by Google.
 
 ### How is Android app distribution different from Apple's App Store?
-Apple used to restrict installation to only the official App Store. Nowadays, you can install the PWA app from the browser, but there are rumors Apple's gonna greatly limit these and prefer native apps (see this [thread](https://news.ycombinator.com/item?id=23676109)). As they claim in submission guidelines: Apps that are not very useful, unique, are simply web sites bundled as Apps, or do not provide any lasting entertainment value may be rejected.
+Apple used to restrict installation to only the official App Store. Nowadays, you can install the PWA app from the browser, but there are rumors Apple's going to greatly limit these and prefer native apps (see this [thread](https://news.ycombinator.com/item?id=23676109)). As they claim in submission guidelines: Apps that are not very useful, unique, are simply web sites bundled as Apps, or do not provide any lasting entertainment value may be rejected.
 
 ### Can an app auto-update itself?
 Generally speaking: no. However, limited choices do exist. PWA apps wrapped inside WebView are commonly used. App's static assets (mp3, images, text, game levels, ...) can be distributed via Google Play through Play Store's auto-update routine or loaded from a custom server.
 
 ### Is it possible to distribute an app privately?
-Yes, an APK can be distributed privately via Play Store to (1) selected organization (company, school, ...) which devices' accounts are part of organization's G Suite), (2) closed group of Google accounts (simple, yet limited to approx 2000 users). An enterprise distribution is briefly <a href="#emm">covered here</a>. Sharing bare APK files is also an option, but this way is more prone to intellectual property leakage as well as an additional hassle with updates.
+Yes, an APK can be distributed privately via Play Store to (1) selected organization (company, school, ...) which devices' accounts are part of organization's G Suite), (2) closed group of Google accounts (simple, yet limited to approx. 2000 users). An enterprise distribution is briefly <a href="#emm">covered here</a>. Sharing bare APK files is also an option, but this way is more prone to intellectual property leakage as well as an additional hassle with updates.
 
 ### Is it safe to distribute an APK by email?
 No. APK file can be easily harmed. Gmail prohibits sending APKs, additionally, email extension size is usually limited to 4 MB (Gmail is not),  which is not enough for regular APK.
@@ -100,7 +100,7 @@ F-Droid is an installable catalog of FOSS (Free and Open Source Software) applic
 F-Droid enables one to add its own repository, which can be useful for ditributing private apps inside companies.
 
 # Xiaomi/Oppo/Vivo/Lenovo
-These chinese manufacturers would like to [enter western markets](https://www.cnet.com/news/huawei-xiaomi-vivo-and-oppo-reportedly-to-join-forces-against-google-play-store) with their app stores also, but their app stores are not operable yet.
+These Chinese manufacturers would like to [enter western markets](https://www.cnet.com/news/huawei-xiaomi-vivo-and-oppo-reportedly-to-join-forces-against-google-play-store) with their app stores also, but their app stores are not operable yet.
 
 # <h2 id="emm">Android Enterprise Mobility Management (by Google)</h2>
 
