@@ -3,3 +3,5 @@
 
 
  My personal blog built with hexo
+ 
+ [https://sirionrazzer.github.io/blog/](https://sirionrazzer.github.io/blog/)
