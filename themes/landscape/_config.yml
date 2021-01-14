@@ -220,7 +220,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Dr. Diary App: 'https://drdiary.eu'
-            Focus: 'https://play.google.com/store/apps/details?id=com.soczilla.focus'
+            Focus App: 'https://play.google.com/store/apps/details?id=com.soczilla.focus'
             Notum: 'https://notum.cz'
     # Recent posts widget configurations
     -
