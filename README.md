@@ -5,3 +5,7 @@
  My personal blog built with hexo
  
  [https://sirionrazzer.github.io/blog/](https://sirionrazzer.github.io/blog/)
+
+# Troubleshooting
+Run this to setup older npm
+`$ npm -g install npm@6`
