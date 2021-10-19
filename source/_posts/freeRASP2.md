@@ -9,4 +9,4 @@ categories:
 ---
 freeRASP is a Community-driven In-App Protection and User Safety suite. Learn more about security and implement freeRASP into your app! Check the implementation guide at the end of the video.
 
-<div class="video-container"><iframe width="560" height="315" src="http://www.youtube.com/embed/LLFOSX1c5WA" frameborder="0" allowfullscreen></iframe></div>
+https://www.youtube.com/watch?v=LLFOSX1c5WA

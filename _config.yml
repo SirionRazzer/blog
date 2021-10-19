@@ -100,7 +100,7 @@ theme: landscape
 deploy:
   type: 'git'
   repo: 'https://github.com/SirionRazzer/blog'
-  branch: 'site'
+  branch: 'gh-pages'
   
 feed:
   type: atom

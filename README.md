@@ -9,3 +9,6 @@
 # Troubleshooting
 Run this to setup older npm
 `$ npm -g install npm@6`
+
+Deploy
+`$ npm run clean && npm run deploy`
