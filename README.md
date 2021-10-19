@@ -9,6 +9,3 @@
 # Troubleshooting
 Run this to setup older npm
 `$ npm -g install npm@6`
-
-Push using GH token
-$ git push https://`cat ../github_token`@github.com/SirionRazzer/blog.git
