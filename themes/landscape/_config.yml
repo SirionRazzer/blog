@@ -219,9 +219,10 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
+            LinkedIn: 'https://www.linkedin.com/in/tom%C3%A1%C5%A1-soukal-415316149/'
+            Talsec: 'https://talsec.app'
             Dr. Diary App: 'https://drdiary.eu'
             Focus App: 'https://play.google.com/store/apps/details?id=com.soczilla.focus'
-            Notum: 'https://notum.cz'
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
