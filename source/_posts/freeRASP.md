@@ -1,5 +1,5 @@
 ---
-title:  "[Copy] freeRASP: In-App protection SDK and app security monitoring service"
+title:  "freeRASP: In-App protection SDK and app security monitoring service (crosspost)"
 date: 2021-08-18 10:00:00
 tags: ['android', 'iOS', 'flutter', 'reverse engineering', 'security']
 thumbnail: /2021/08/18/freeRASP/excited_app.png

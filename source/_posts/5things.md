@@ -1,5 +1,5 @@
 ---
-title:  "[Copy] 5 Things John Learned Fighting Hackers of His App — A must-read for PM’s and CISO’s"
+title:  "5 Things John Learned Fighting Hackers of His App — A must-read for PM’s and CISO’s (crosspost)"
 date: 2021-12-08 10:00:00
 tags: ['android', 'iOS', 'flutter', 'reverse engineering', 'security', 'pentesting', 'APK', 'infosec']
 thumbnail: /2021/12/08/5things/cover.png

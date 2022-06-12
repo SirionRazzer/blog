@@ -1,5 +1,5 @@
 ---
-title:  "[Copy] #1 Flutter Security Library: How to Build Secure App using freeRASP | freeRASP Implementation Guide"
+title:  "#1 Flutter Security Library: How to Build Secure App using freeRASP | freeRASP Implementation Guide (crosspost)"
 date: 2021-10-12 10:00:00
 tags: ['android', 'iOS', 'flutter', 'reverse engineering', 'security']
 thumbnail: /2021/10/12/freeRASP2/freeRASP.png
