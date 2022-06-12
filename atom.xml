@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SirionRazzer&#39;s Site</title>
+  <icon>https://sirionrazzer.github.io/blog/icon.png</icon>
+  <subtitle>Failure Is Not an Option --Gene Kranz</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://sirionrazzer.github.io/blog/"/>
+  <updated>2022-06-12T10:48:46.967Z</updated>
+  <id>https://sirionrazzer.github.io/blog/</id>
+  
+  <author>
+    <name>Tomáš Soukal</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mobile API Anti-abuse Protection: AppiCrypt® Is a New SafetyNet and DeviceCheck Attestation Alternative (crosspost)</title>
+    <link href="https://sirionrazzer.github.io/blog/2022/06/01/Mobile-API-Anti-abuse-Protection-AppiCrypt%C2%AE-Is-a-New-SafetyNet-and-DeviceCheck-Attestation-Alternative-crosspost/"/>
+    <id>https://sirionrazzer.github.io/blog/2022/06/01/Mobile-API-Anti-abuse-Protection-AppiCrypt%C2%AE-Is-a-New-SafetyNet-and-DeviceCheck-Attestation-Alternative-crosspost/</id>
+    <published>2022-06-01T13:35:57.000Z</published>
+    <updated>2022-06-12T10:48:46.967Z</updated>
+    
+    <content type="html"><![CDATA[<p>The authenticity and integrity of the device and the application must be verified to determine whether the application’s backends are communicating with a legitimate application running on an approved/genuine mobile device. An attestation is a technique and process leading to evidence or proof of authenticity.</p><p>Check this link to learn more about AppiCrypt, a powerful tool that provides proof of app and device integrity for backends:<br><a href="https://medium.com/@talsec/mobile-api-anti-abuse-protection-appicrypt-is-a-new-safetynet-and-devicecheck-alternative-20cf7a07dfb0">https://medium.com/@talsec/mobile-api-anti-abuse-protection-appicrypt-is-a-new-safetynet-and-devicecheck-alternative-20cf7a07dfb0</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The authenticity and integrity of the device and the application must be verified to determine whether the application’s backends are
+        
+      
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="security" scheme="https://sirionrazzer.github.io/blog/categories/dev/security/"/>
+    
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/tags/android/"/>
+    
+      <category term="iOS" scheme="https://sirionrazzer.github.io/blog/tags/iOS/"/>
+    
+      <category term="flutter" scheme="https://sirionrazzer.github.io/blog/tags/flutter/"/>
+    
+      <category term="reverse engineering" scheme="https://sirionrazzer.github.io/blog/tags/reverse-engineering/"/>
+    
+      <category term="security" scheme="https://sirionrazzer.github.io/blog/tags/security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5 Things John Learned Fighting Hackers of His App — A must-read for PM’s and CISO’s (crosspost)</title>
+    <link href="https://sirionrazzer.github.io/blog/2021/12/08/5things/"/>
+    <id>https://sirionrazzer.github.io/blog/2021/12/08/5things/</id>
+    <published>2021-12-08T10:00:00.000Z</published>
+    <updated>2022-06-12T10:48:46.963Z</updated>
+    
+    <content type="html"><![CDATA[<p>John is the creator of a popular app BetterVision, for the blind and visually impaired. There is a good reason for the over 100K installations John’s creation has achieved. BetterVision can turn a phone’s camera into a powerful assistant easing a daily routine for disabled users worldwide. With success, however, soon came difficulties. John’s app suffered a cloning attack, and his In-App purchases got stolen.</p><p>Check this link:<br><a href="https://medium.com/@talsec/5-things-john-learned-fighting-hackers-of-his-app-a-must-read-for-pms-and-ciso-s-463379b49410">https://medium.com/@talsec/5-things-john-learned-fighting-hackers-of-his-app-a-must-read-for-pms-and-ciso-s-463379b49410</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;John is the creator of a popular app BetterVision, for the blind and visually impaired. There is a good reason for the over 100K
+        
+      
+    
+    </summary>
+    
+    
+      <category term="interview" scheme="https://sirionrazzer.github.io/blog/categories/interview/"/>
+    
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/tags/android/"/>
+    
+      <category term="iOS" scheme="https://sirionrazzer.github.io/blog/tags/iOS/"/>
+    
+      <category term="flutter" scheme="https://sirionrazzer.github.io/blog/tags/flutter/"/>
+    
+      <category term="reverse engineering" scheme="https://sirionrazzer.github.io/blog/tags/reverse-engineering/"/>
+    
+      <category term="security" scheme="https://sirionrazzer.github.io/blog/tags/security/"/>
+    
+      <category term="pentesting" scheme="https://sirionrazzer.github.io/blog/tags/pentesting/"/>
+    
+      <category term="APK" scheme="https://sirionrazzer.github.io/blog/tags/APK/"/>
+    
+      <category term="infosec" scheme="https://sirionrazzer.github.io/blog/tags/infosec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>#1 Flutter Security Library: How to Build Secure App using freeRASP | freeRASP Implementation Guide (crosspost)</title>
+    <link href="https://sirionrazzer.github.io/blog/2021/10/12/freeRASP2/"/>
+    <id>https://sirionrazzer.github.io/blog/2021/10/12/freeRASP2/</id>
+    <published>2021-10-12T10:00:00.000Z</published>
+    <updated>2022-06-12T10:48:46.971Z</updated>
+    
+    <content type="html"><![CDATA[<p>freeRASP is a Community-driven In-App Protection and User Safety suite. Learn more about security and implement freeRASP into your app! Check the implementation guide at the end of the video.</p><p><a href="https://www.youtube.com/watch?v=LLFOSX1c5WA">https://www.youtube.com/watch?v=LLFOSX1c5WA</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;freeRASP is a Community-driven In-App Protection and User Safety suite. Learn more about security and implement freeRASP into your app!
+        
+      
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="security" scheme="https://sirionrazzer.github.io/blog/categories/dev/security/"/>
+    
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/tags/android/"/>
+    
+      <category term="iOS" scheme="https://sirionrazzer.github.io/blog/tags/iOS/"/>
+    
+      <category term="flutter" scheme="https://sirionrazzer.github.io/blog/tags/flutter/"/>
+    
+      <category term="reverse engineering" scheme="https://sirionrazzer.github.io/blog/tags/reverse-engineering/"/>
+    
+      <category term="security" scheme="https://sirionrazzer.github.io/blog/tags/security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>freeRASP: In-App protection SDK and app security monitoring service (crosspost)</title>
+    <link href="https://sirionrazzer.github.io/blog/2021/08/18/freeRASP/"/>
+    <id>https://sirionrazzer.github.io/blog/2021/08/18/freeRASP/</id>
+    <published>2021-08-18T10:00:00.000Z</published>
+    <updated>2022-06-12T10:48:46.971Z</updated>
+    
+    <content type="html"><![CDATA[<p>TL;DR: freeRASP improves the security and ensures the safety of your app. Like Crashlytics but for threats. Flutter, Android and iOS are all supported.</p><p>Check this link:<br><a href="https://medium.com/geekculture/freerasp-in-app-protection-sdk-and-app-security-monitoring-service-de12d8e49400">https://medium.com/geekculture/freerasp-in-app-protection-sdk-and-app-security-monitoring-service-de12d8e49400</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;TL;DR: freeRASP improves the security and ensures the safety of your app. Like Crashlytics but for threats. Flutter, Android and iOS are
+        
+      
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="security" scheme="https://sirionrazzer.github.io/blog/categories/dev/security/"/>
+    
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/tags/android/"/>
+    
+      <category term="iOS" scheme="https://sirionrazzer.github.io/blog/tags/iOS/"/>
+    
+      <category term="flutter" scheme="https://sirionrazzer.github.io/blog/tags/flutter/"/>
+    
+      <category term="reverse engineering" scheme="https://sirionrazzer.github.io/blog/tags/reverse-engineering/"/>
+    
+      <category term="security" scheme="https://sirionrazzer.github.io/blog/tags/security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Focus App published to Play Store</title>
+    <link href="https://sirionrazzer.github.io/blog/2021/01/14/Focus/"/>
+    <id>https://sirionrazzer.github.io/blog/2021/01/14/Focus/</id>
+    <published>2021-01-14T09:42:47.000Z</published>
+    <updated>2022-06-12T10:48:46.963Z</updated>
+    
+    <content type="html"><![CDATA[<p>I have tried to design a nonobtrusive timer app named Focus, <a href="https://play.google.com/store/apps/details?id=com.soczilla.focus">check it out</a>. I don’t intend to continue its development since there is no need for another Pomodoro app. The main (and only) specialty of the Focus is a text field used to specify a current goal.</p><img src="/blog/2021/01/14/Focus/screen.png" class="" title="Just this screen">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;I have tried to design a nonobtrusive timer app named Focus, &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/categories/dev/android/"/>
+    
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/tags/android/"/>
+    
+      <category term="APK" scheme="https://sirionrazzer.github.io/blog/tags/APK/"/>
+    
+      <category term="Google Play" scheme="https://sirionrazzer.github.io/blog/tags/Google-Play/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Kotlin Backend</title>
+    <link href="https://sirionrazzer.github.io/blog/2020/08/28/Backend/"/>
+    <id>https://sirionrazzer.github.io/blog/2020/08/28/Backend/</id>
+    <published>2020-08-28T22:03:25.000Z</published>
+    <updated>2022-06-12T10:48:46.963Z</updated>
+    
+    <content type="html"><![CDATA[<p>I have joined a new project which is already bootstrapped with Spring Boot and Kotlin. I haven’t needed such tech stack yet, usual requirements were easily solvable by deploying the Strapi CMS and the database.</p><a id="more"></a><p>I was initially pleasingly surprised that Spring Boot can be used with Gradle and Kotlin. This made me feel more confident with my first steps since I knew both of these already from Android development.</p><p>The Strapi comes with authorization and access control out of the box. This eases the complexity of API development. On the other hand, this is a quite opinionated approach and goes against the architecture decoupling. Spring Boot is designed as microservice, self-contained and concise framework and authorization and access control are not available directly.</p><p>I guess I will start with Spring Security since there is a nice article by <a href="https://www.baeldung.com/spring-security-basic-authentication">Baeldung</a>. Another option would be <a href="https://www.keycloak.org/">Keycloak</a> identity &amp; access management server, but I lack the skills needed to deploy it reliably and I think it is a bit overkill for the current project. Maybe later.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I have joined a new project which is already bootstrapped with Spring Boot and Kotlin. I haven’t needed such tech stack yet, usual requirements were easily solvable by deploying the Strapi CMS and the database.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="backend" scheme="https://sirionrazzer.github.io/blog/categories/dev/backend/"/>
+    
+    
+      <category term="kotlin" scheme="https://sirionrazzer.github.io/blog/tags/kotlin/"/>
+    
+      <category term="backend" scheme="https://sirionrazzer.github.io/blog/tags/backend/"/>
+    
+      <category term="spring boot" scheme="https://sirionrazzer.github.io/blog/tags/spring-boot/"/>
+    
+      <category term="strapi" scheme="https://sirionrazzer.github.io/blog/tags/strapi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android App Distribution in 2020</title>
+    <link href="https://sirionrazzer.github.io/blog/2020/07/30/Comparison-of-Android-app-stores-in-2020/"/>
+    <id>https://sirionrazzer.github.io/blog/2020/07/30/Comparison-of-Android-app-stores-in-2020/</id>
+    <published>2020-07-30T21:18:07.000Z</published>
+    <updated>2022-06-12T10:48:46.963Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Play-Store-Huawei-AppGallery-Custom-updater"><a href="#Play-Store-Huawei-AppGallery-Custom-updater" class="headerlink" title="Play Store? Huawei AppGallery? Custom updater?"></a>Play Store? Huawei AppGallery? Custom updater?</h1><p>This article aims to answer common questions about the possibilities of android app distribution. I try to compare various ways of installation which can be interesting for non-public apps. I also examine relevant app stores to summarize their possibilities and limitations. The monetization, advertisement, and related business aspects are taken just briefly. Beware - the market situation is taken from the US/EU viewpoint. The regional situation in Russia, China, or India is beyond my knowledge.</p><a id="more"></a><p>As of 2020, there exist many app stores and other ways of app (APK) installation. On the other hand, there are not many full-fledged solutions available. It is quite easy to distribute an app on its own, yet dealing with further updates or the monetization narrows down these options to only a few big houses. The obligatory choice is still Google Play, which provides the most complete services to manage an app’s distribution. With some drawbacks, there is also Samsung’s Galaxy App Store, Huawei’s AppGallery, Xiaomi’s GetApps, and Amazon’s AppStore. These come pre-installed on devices while alternative stores have to be installed manually.</p><h2 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h2><p>People often ask these questions. Some of them will be answered further down the article.</p><h3 id="Is-it-possible-to-distribute-an-app-outside-of-any-app-store"><a href="#Is-it-possible-to-distribute-an-app-outside-of-any-app-store" class="headerlink" title="Is it possible to distribute an app outside of any app store?"></a>Is it possible to distribute an app outside of any app store?</h3><p>Yes. An APK can be placed anywhere and installed once the user enables Install from Unknown Sources. Play Store (or any other store) can even take care of updates later - once there is a newer package uploaded in its repository.</p><h3 id="Can-we-develop-a-custom-updater-or-app-store"><a href="#Can-we-develop-a-custom-updater-or-app-store" class="headerlink" title="Can we develop a custom updater or app store?"></a>Can we develop a custom updater or app store?</h3><p>Yes. Custom updaters are often offered by third-party app stores. Epic successfully distributed Fortnite (see <a href="https://techcrunch.com/2018/09/07/fortnite-hits-15-million-installs-on-android/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAACRvmvDp_QEkxeLSrF_Mgxnf-z6x4Qd53T5QPQDcgS4EhL7pspZ3fL5epJNN-IcygCfwDExuEQPXoRp3LzJyLONbM5dQmDGHZwALkIeWCjrP6qi4AbOdVk6Bv0bfQ9gfNdMN0pHhSJs1BjTLYE5P5oPYFoKYRDNS8UT-adGw0mDM">1</a>, <a href="https://www.epicgames.com/fortnite/en-US/mobile/android/get-started">2</a>) with its own installer so they could avoid a 30% payment cut required by Google.</p><h3 id="How-is-Android-app-distribution-different-from-Apple’s-App-Store"><a href="#How-is-Android-app-distribution-different-from-Apple’s-App-Store" class="headerlink" title="How is Android app distribution different from Apple’s App Store?"></a>How is Android app distribution different from Apple’s App Store?</h3><p>Apple used to restrict installation to only the official App Store. Nowadays, you can install the PWA app from the browser, but there are rumors Apple’s going to greatly limit these and prefer native apps (see this <a href="https://news.ycombinator.com/item?id=23676109">thread</a>). As they claim in submission guidelines: Apps that are not very useful, unique, are simply web sites bundled as Apps, or do not provide any lasting entertainment value may be rejected.</p><h3 id="Can-an-app-auto-update-itself"><a href="#Can-an-app-auto-update-itself" class="headerlink" title="Can an app auto-update itself?"></a>Can an app auto-update itself?</h3><p>Generally speaking: no. However, limited choices do exist. PWA apps wrapped inside WebView are commonly used. App’s static assets (mp3, images, text, game levels, …) can be distributed via Google Play through Play Store’s auto-update routine or loaded from a custom server.</p><h3 id="Is-it-possible-to-distribute-an-app-privately"><a href="#Is-it-possible-to-distribute-an-app-privately" class="headerlink" title="Is it possible to distribute an app privately?"></a>Is it possible to distribute an app privately?</h3><p>Yes, an APK can be distributed privately via Play Store to (1) selected organization (company, school, …) which devices’ accounts are part of organization’s G Suite), (2) closed group of Google accounts (simple, yet limited to approx. 2000 users). An enterprise distribution is briefly <a href="#emm">covered here</a>. Sharing bare APK files is also an option, but this way is more prone to intellectual property leakage as well as an additional hassle with updates.</p><h3 id="Is-it-safe-to-distribute-an-APK-by-email"><a href="#Is-it-safe-to-distribute-an-APK-by-email" class="headerlink" title="Is it safe to distribute an APK by email?"></a>Is it safe to distribute an APK by email?</h3><p>No. APK file can be easily harmed. Gmail prohibits sending APKs, additionally, email extension size is usually limited to 4 MB (Gmail is not),  which is not enough for regular APK.</p><p>Cons:</p><ul><li>no APK update management</li><li>issues caused by antivirus SW reporting unknown binary files</li><li>no integrity checks</li><li>user can’t verify APK’s origin</li></ul><h3 id="Is-an-APK-safe-against-piracy"><a href="#Is-an-APK-safe-against-piracy" class="headerlink" title="Is an APK safe against piracy?"></a>Is an APK safe against piracy?</h3><p>No. APKs are commonly pirated and shared on alternative/shady app stores. Hardcoded keys can be extracted and input fields (passwords) spoofed. Sensitive apps should be properly audited and possibly enhanced with some sort of runtime application self-protection. Delivering optimal security at a reasonable cost is a concern of risk management. If you are unsure whether you may be hacked, always remember the rule of thumb: Risk is related with vulnerabilities, which threaten (1) confidentiality (not disclosing sensitive information), (2) integrity (preserving the state of the system), and (3) availability (we do want our systems to be up and running) of the assets. This is also known as CIA Triad.</p><h1 id="Noteworthy-Google-Play-alternatives"><a href="#Noteworthy-Google-Play-alternatives" class="headerlink" title="Noteworthy Google Play alternatives"></a>Noteworthy Google Play alternatives</h1><p>Third-party alternative app stores have to be installed by the user manually. Amazon’s, Huawei’s and Samsung’s store are unavailable on the Play Store.</p><p>They usually can deliver updates automatically, but the user is required to confirm each installation/update through the system’s package installer on their first run. Moreover, each app that can initiate APK’s installation has to be firstly confirmed by the user as a trustworthy installer. Both of these limitations present a serious obstacle for many nontechnical users and can drive them away.</p><h2 id="Huawei-AppGallery"><a href="#Huawei-AppGallery" class="headerlink" title="Huawei AppGallery"></a>Huawei AppGallery</h2><p>AppGallery is one of the most advanced alternatives. It comes preinstalled on Huawei and Honor devices. Its installer is available through AppGallery’s homepage for other devices as well. In the first run, the user is prompted to install HMS (whopping 93 MB).</p><p>Since <a href="https://www.cnet.com/news/huawei-ban-full-timeline-us-restrictions-china-trump-executive-order-no-1-phone-maker-samsung/">last year’s ban</a>, Huawei got in a cumbersome situation. While finally being no. 1 smartphone manufacturer they effectively lost the western market due to the unavailability of Google Play Services (incl. Play Store). This leads to huge investments to their <a href="https://www.xda-developers.com/huawei-hms-core-android-alternative-google-play-services-gms/">Huawei Mobile Services</a> (counterpart of Google Mobile Services) and even work on greenfield operation system <a href="https://harmonyosofficial.com/">Harmony OS</a>.</p><h2 id="Samsung’s-Galaxy-App-Store"><a href="#Samsung’s-Galaxy-App-Store" class="headerlink" title="Samsung’s Galaxy App Store"></a>Samsung’s Galaxy App Store</h2><p>Samsung’s app store comes preinstalled on its own devices and <a href="bluestacks">Bluestacks</a>. I couldn’t find its official installer on their European website, but it’s easily downloadable from other app stores - I certainly don’t recommend such an approach.</p><p>It is quite successful - Google <a href="https://arstechnica.com/gadgets/2020/07/google-wants-samsung-to-kill-bixby-galaxy-app-store/">wants to kill it</a>.</p><h2 id="Amazon-AppStore"><a href="#Amazon-AppStore" class="headerlink" title="Amazon AppStore"></a>Amazon AppStore</h2><p>AppStore comes pre-installed on its Fire devices. They provide rich infrastructure as well.</p><h1 id="Other-stores"><a href="#Other-stores" class="headerlink" title="Other stores"></a>Other stores</h1><p>In many cases, these stores seem to just mirror APKs from Google Play and don’t offer any distribution/revenue model directly. I have briefly tried all of these to point out their offering from a developer perspective.</p><h2 id="ApkMirror"><a href="#ApkMirror" class="headerlink" title="ApkMirror"></a>ApkMirror</h2><p>Backed by Android Police, <a href="https://www.apkmirror.com/">ApkMirror</a> provides its own APKMirror Installer. They provide an alternative to app bundle - apkm - as well as traditional APKs.</p><h2 id="ApkPure"><a href="#ApkPure" class="headerlink" title="ApkPure"></a>ApkPure</h2><p><a href="https://apkpure.com/">ApkPure</a> provides a small console area for app management for developers where you can check stats and comments. They provide their own updater app for users like any other app store also. Their homepage can be installed (PWA) on the home screen - this is neat and simple. Footer on their developer console says they deliver to <a href="https://developer.apkpure.com/">10M users worldwide</a></p><h2 id="BlueStacks"><a href="#BlueStacks" class="headerlink" title="BlueStacks"></a><h2 id="bluestacks">BlueStacks</h2></h2><p>Android Emulator designed to enable Android applications to run on PCs running Microsoft Windows and Apple’s macOS. Comes with Samsung Galaxy App preinstalled. They even provide some <a href="https://www.bluestacks.com/enterprise.html">enterprise offerings</a>.</p><h2 id="ApkFab"><a href="#ApkFab" class="headerlink" title="ApkFab"></a>ApkFab</h2><p><a href="https://apkfab.com/">ApkFab</a> provides common updater app and App Bundle alternative packaging - XAPK (used by ApkPure also).</p><h2 id="GetJar"><a href="#GetJar" class="headerlink" title="GetJar"></a>GetJar</h2><p><a href="https://www.getjar.com/">GetJar</a> - I have never heard of this one before, seems quite abandoned to me, but used to be quite popular. They distribute apps to over <a href="https://developer.getjar.mobi/">30 million</a> users a month.</p><h2 id="Aptoide"><a href="#Aptoide" class="headerlink" title="Aptoide"></a>Aptoide</h2><p><a href="https://en.aptoide.com/">Aptoide</a> develops a custom <a href="https://catappult.io">Catappult</a> platform to distribute apps to many stores at once. They push their own cryptocurrency Appcoin. Unfortunately, they are often accused <a href="https://www.reddit.com/r/Android/comments/f406ne/appcoins_scam_at_aptoide_market/">link 1</a>, <a href="https://www.reddit.com/r/androiddev/comments/ewijj0/some_store_named_catappult_is_redistributing_my/">link 2</a>) of piracy/redistribution with own ads. They distribute apps to over <a href="https://en.aptoide.com/company/developers">300 million</a> users.</p><h2 id="Uptodown"><a href="#Uptodown" class="headerlink" title="Uptodown"></a>Uptodown</h2><p><a href="https://en.uptodown.com/android">Uptodown</a> provides likable interface and also comes with some sort of developer zone. They claim to have <a href="https://en.uptodown.com/oem">120 million</a> unique users each month, which seems quite impressive. Uptodown was established <a href="https://blog.en.uptodown.com/faq-uptodown-common-questions/">in 2003</a>.</p><h1 id="Open-source-app-clients"><a href="#Open-source-app-clients" class="headerlink" title="Open source app clients"></a>Open source app clients</h1><h2 id="Aurora-Store"><a href="#Aurora-Store" class="headerlink" title="Aurora Store"></a>Aurora Store</h2><p>Open-source client for the Play Store. Tries to provide a complete distribution system, but it is interesting only for FOSS enthusiasts.</p><h2 id="FDroid"><a href="#FDroid" class="headerlink" title="FDroid"></a>FDroid</h2><p>F-Droid is an installable catalog of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates.</p><p>F-Droid enables one to add its own repository, which can be useful for ditributing private apps inside companies.</p><h1 id="Xiaomi-Oppo-Vivo-Lenovo"><a href="#Xiaomi-Oppo-Vivo-Lenovo" class="headerlink" title="Xiaomi/Oppo/Vivo/Lenovo"></a>Xiaomi/Oppo/Vivo/Lenovo</h1><p>These Chinese manufacturers would like to <a href="https://www.cnet.com/news/huawei-xiaomi-vivo-and-oppo-reportedly-to-join-forces-against-google-play-store">enter western markets</a> with their app stores also, but their app stores are not operable yet.</p><h1 id="Android-Enterprise-Mobility-Management-by-Google"><a href="#Android-Enterprise-Mobility-Management-by-Google" class="headerlink" title="Android Enterprise Mobility Management (by Google)"></a><h2 id="emm">Android Enterprise Mobility Management (by Google)</h2></h1><p><a href="https://androidenterprisepartners.withgoogle.com/glossary/emm/">Android EMM</a> is useful for companies already using G Suite or Cloud Identity.</p><p>Private apps are automatically approved when published, but aren’t automatically available to a user unless an enterprise IT admin explicitly grants them access to all approved apps. EMM covers management of custom devices (Zebra, Panasonic Toughbook, …), applications, and management. Android apps are compatible with Android’s enterprise features by default. Each G Suite or Cloud Identity account is associated with exactly one <a href="https://cloud.google.com/resource-manager/docs/creating-managing-organization">Organization</a>. An Organization is associated with exactly one domain, which is set when the Organization resource is created.</p><p>EMM is used often with work profiles. Enterprises have control over all data and security policies within the work profile. Outside the work profile, the device remains suitable for personal use—ideal for BYOD deployments.</p><h1 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h1><p>Hopefuly I helped you to get orientated in Android app distribution options. I have tried to cover all options I am aware of. If you wish to point out another method you are welcome to discuss below :) .</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Play-Store-Huawei-AppGallery-Custom-updater&quot;&gt;&lt;a href=&quot;#Play-Store-Huawei-AppGallery-Custom-updater&quot; class=&quot;headerlink&quot; title=&quot;Play Store? Huawei AppGallery? Custom updater?&quot;&gt;&lt;/a&gt;Play Store? Huawei AppGallery? Custom updater?&lt;/h1&gt;&lt;p&gt;This article aims to answer common questions about the possibilities of android app distribution. I try to compare various ways of installation which can be interesting for non-public apps. I also examine relevant app stores to summarize their possibilities and limitations. The monetization, advertisement, and related business aspects are taken just briefly. Beware - the market situation is taken from the US/EU viewpoint. The regional situation in Russia, China, or India is beyond my knowledge.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/categories/dev/android/"/>
+    
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/tags/android/"/>
+    
+      <category term="APK" scheme="https://sirionrazzer.github.io/blog/tags/APK/"/>
+    
+      <category term="infosec" scheme="https://sirionrazzer.github.io/blog/tags/infosec/"/>
+    
+      <category term="deployment" scheme="https://sirionrazzer.github.io/blog/tags/deployment/"/>
+    
+      <category term="Google Play" scheme="https://sirionrazzer.github.io/blog/tags/Google-Play/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scoreboard SPA built on the cheap in 2 hours</title>
+    <link href="https://sirionrazzer.github.io/blog/2020/07/07/Scoreboard/"/>
+    <id>https://sirionrazzer.github.io/blog/2020/07/07/Scoreboard/</id>
+    <published>2020-07-07T23:24:09.000Z</published>
+    <updated>2022-06-12T10:48:46.967Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is not a tutorial, but a quick write-up about the simplicity of tools which can be used to publish simple single page application nowadays. I have used this approach a few times when someone asked me to build an editable table of items (i.e. upcoming events) without special requirements. I wouldn’t recommend this approach for anything more serious.</p><a id="more"></a><h2 id="Tooling"><a href="#Tooling" class="headerlink" title="Tooling"></a>Tooling</h2><ul><li><a href="https://html5up.net/">html5up</a> as a responsive HTML template</li><li><a href="https://www.google.com/sheets/about/">Google Sheets</a> as an editable database</li><li><a href="https://sheetdb.io/">SheetDB</a> to convet Google Sheets into simple api</li><li><a href="https://apexcharts.com">ApexCharts chart template</a> to display scores nicely</li><li>my 3$ Ubuntu VPS with Apache and Let’s Encrypt to deploy the result</li></ul><h2 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h2><p>I was in need of a simple editable scoreboard for children summer camp. Scores should be updated independently by a few animators and displayed on the temporary page published during the event.</p><h2 id="API-Database"><a href="#API-Database" class="headerlink" title="API + Database"></a>API + Database</h2><p>Google Sheets is an excellent choice due to three reasons. Firstly, everyone can access and edit a shared sheet using a browser or mobile app. Secondly, there are SaaS platforms like SheetDB which can turn the sheet into consumable API. And finally, I could leverage the simplicity provided by both of these to speed up the most cumbersome part of this project.</p><p>Sheets-into-API approach is quite popular today, there are many competitors in this field like <a href="https://sheetdb.io/">SheetDB</a>, <a href="https://sheetsu.com/">Sheetsu</a>, <a href="https://sheet.best/">Sheet.Best</a> and many more. I wish Google itself made such a simple API to its Sheets, but I guess Google is just more focused on its Firebase cloud business.</p><h3 id="Google-Sheets"><a href="#Google-Sheets" class="headerlink" title="Google Sheets"></a>Google Sheets</h3><img src="/blog/2020/07/07/Scoreboard/spreadsheet.png" class="" title="Google Sheets"><h3 id="SheetDB"><a href="#SheetDB" class="headerlink" title="SheetDB"></a>SheetDB</h3><img src="/blog/2020/07/07/Scoreboard/sheetdb.png" class="" title="SheetDP API"><h2 id="Frontend"><a href="#Frontend" class="headerlink" title="Frontend"></a>Frontend</h2><p>The place I visit every time when I need a responsive static site is <a href="https://html5up.net/">html5up</a>. Their templates come with example page populated with all design options and further customization is possible with the provided Sass file. When doing a small project like this one, these templates can help me kickoff the frontend in a minute without sacrificing the responsiveness and with decent eye-candy.</p><img src="/blog/2020/07/07/Scoreboard/html5up.png" class="" title="Directive template by html5up"><h2 id="Displaying-data"><a href="#Displaying-data" class="headerlink" title="Displaying data"></a>Displaying data</h2><p>I wanted to display the scoreboard with a plain horizontal chart, the chosen one from <a href="https://apexcharts.com">ApexCharts</a>‘s works as expected.</p><p>The data are fetched from the API with a simple <code>fetch</code> and then sorted by the score value.</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">fetch(<span class="string">"https://sheetdb.io/api/v1/[real token removed]"</span>)</span><br><span class="line">    .then(<span class="function"><span class="params">res</span> =&gt;</span> &#123;</span><br><span class="line">        res.json().then(<span class="function"><span class="params">res</span> =&gt;</span> &#123;</span><br><span class="line">            <span class="comment">// skipped data tranformation...</span></span><br><span class="line">            <span class="keyword">var</span> chart = <span class="keyword">new</span> ApexCharts(<span class="built_in">document</span>.querySelector(<span class="string">"#chart"</span>), options);</span><br><span class="line">            chart.render();</span><br><span class="line">...</span><br></pre></td></tr></table></figure><h2 id="Hosting"><a href="#Hosting" class="headerlink" title="Hosting"></a>Hosting</h2><p>For hosting of small projects, I prefer the VPS and leverage Apache’s capability to host multiple sites (VirtualHosts). My usual routine is to create an appropriate folder inside <code>/var/www/[DOMAIN-NAME.NAME]</code>, then create site’s configuration file with <code>&lt;VirtualHost *:80&gt;</code> directive in <code>/etc/apache2/site-available/[HERE].conf</code>, enable it with <code>a2ensite *</code> command, and issue SSL certificate with Let’s Encrypt’s Certbot client. Certbot creates a copy of configuration file with certificate paths populated appropriately and I can finally upload frontend files and fill a glass of wine.</p><h2 id="Result-amp-evaluation"><a href="#Result-amp-evaluation" class="headerlink" title="Result &amp; evaluation"></a>Result &amp; evaluation</h2><p>The resulting SPA was created in a much shorter time than this post. Except for the JS fetch part of data into chart there were zero lines of code written elsewhere. I can recommend this approach only for the project with constraint funding and one-shot temporary applications as stated in the preface.</p><img src="/blog/2020/07/07/Scoreboard/result.png" class="" title="Finished SPA with placeholder data">]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is not a tutorial, but a quick write-up about the simplicity of tools which can be used to publish simple single page application nowadays. I have used this approach a few times when someone asked me to build an editable table of items (i.e. upcoming events) without special requirements. I wouldn’t recommend this approach for anything more serious.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="SPA" scheme="https://sirionrazzer.github.io/blog/categories/dev/SPA/"/>
+    
+    
+      <category term="jamstack" scheme="https://sirionrazzer.github.io/blog/tags/jamstack/"/>
+    
+      <category term="nocode" scheme="https://sirionrazzer.github.io/blog/tags/nocode/"/>
+    
+      <category term="SPA" scheme="https://sirionrazzer.github.io/blog/tags/SPA/"/>
+    
+      <category term="JS" scheme="https://sirionrazzer.github.io/blog/tags/JS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sunday Reflection</title>
+    <link href="https://sirionrazzer.github.io/blog/2020/05/31/TouchTyping/"/>
+    <id>https://sirionrazzer.github.io/blog/2020/05/31/TouchTyping/</id>
+    <published>2020-05-31T14:11:47.000Z</published>
+    <updated>2022-06-12T10:48:46.971Z</updated>
+    
+    <content type="html"><![CDATA[<p>92 Keys, Falcon 9, Drawing by Ryan Joseph. Happy Sunday!</p><a id="more"></a><h1 id="92-keys"><a href="#92-keys" class="headerlink" title="92 keys"></a>92 keys</h1><p>Since I bought a new mechanical keyboard last week I have been ecstatic about it. I have chosen cheap Rapoo VPRO V500 with black switches. I opted for tenkeyless layout to save some space. I am used to use number row, the missing number pad is not an issue for me. There actually weren’t many options since I dislike rainbow backlight and gaming appearance.</p><p>Once the keyboard arrived I have realized it was a high time to hone my touch typing skills. I sifted through many training apps and eventually came across the <a href="https://www.typingclub.com/">TypingClub</a>. Their typing course has visually pleasing UI with funny little typing games. I have been practicing the touch typing there for three evenings and it has helped me a lot.</p><h1 id="Together-for-Falcon-9"><a href="#Together-for-Falcon-9" class="headerlink" title="Together for Falcon 9"></a>Together for Falcon 9</h1><p>Yesterday’s Falcon manned launch was an unforgettable moment not only due to that achievement itself. An whole family, three generations (and two dachshunds) were watching the launch together - finally reunited after two months of separation caused by the COVID quarantine. It was a heartwarming moment. </p><h1 id="Drawing-by-Ryan-Joseph"><a href="#Drawing-by-Ryan-Joseph" class="headerlink" title="Drawing by Ryan Joseph"></a>Drawing by Ryan Joseph</h1><p>I am honoured by this drawing of me by Ryan Joseph. You may have not heard of him yet, since his craft is mainly in the realms of code. Luckily for you, his <a href="https://twitter.com/RyanJosephDev/status/1266046173204398080">drawing bot</a> is ready to convert your Twitter avatar into the finest art.</p><img src="/blog/2020/05/31/TouchTyping/drawing.png" class="" title="My drawing by Ryan Joseph">]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;92 Keys, Falcon 9, Drawing by Ryan Joseph. Happy Sunday!&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="reflection" scheme="https://sirionrazzer.github.io/blog/categories/reflection/"/>
+    
+    
+      <category term="touch typing" scheme="https://sirionrazzer.github.io/blog/tags/touch-typing/"/>
+    
+      <category term="life" scheme="https://sirionrazzer.github.io/blog/tags/life/"/>
+    
+      <category term="HW" scheme="https://sirionrazzer.github.io/blog/tags/HW/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android: Release shamelessly, outrun a hacker</title>
+    <link href="https://sirionrazzer.github.io/blog/2020/05/18/MobSF/"/>
+    <id>https://sirionrazzer.github.io/blog/2020/05/18/MobSF/</id>
+    <published>2020-05-18T23:24:09.000Z</published>
+    <updated>2022-06-12T10:48:46.963Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Keep-an-eye-on-attack-vectors-with-MobSF"><a href="#Keep-an-eye-on-attack-vectors-with-MobSF" class="headerlink" title="Keep an eye on attack vectors with MobSF"></a>Keep an eye on attack vectors with MobSF</h1><p>Your shiny new Android app is almost done and you are heading for release. Your most valuable assets are baked inside your app, yet there is one last crucial measurement your app should undertake to ensure its security.</p><a id="more"></a><p>The plethora of insecure practices developers were not aware of during the development process as well as hidden weaknesses inside third-party dependencies may create a serious security hole inside the final product. Once you publish your app anyone can reverse engineer it and extract any secrets. This can lead to security breach on the backend side or data leak from app’s storage. Moreover any app can be repackaged with attacker’s malicious code and released on Google Play to lure your customers away.</p><p>As of 2020 there are many analysis tools available for Android app inspection. The one I can highly recommend is Mobile Security Framework <a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">MobSF</a> suggested by <a href="https://owasp.org/www-pdf-archive/OWASP-Tales-of-practical-penetration-testing.pdf">OWASP</a> both for static and dynamic analysis. With over 6000 stars it is one of the most popular repository amongst security frameworks for mobile devices. DevSecOps teams can incorporate it into their CI/CD pipelines. It is hosted locally, which means sensitive data never interacts with the cloud.</p><p>You definitely don’t need to have a deep knowledge of Android security to perform your first inspection with MobSF.</p><ol><li><p>Install MobSF with <a href="https://mobsf.github.io/docs/#/installation">setup script</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/MobSF/Mobile-Security-Framework-MobSF.git</span><br><span class="line">$ <span class="built_in">cd</span> Mobile-Security-Framework-MobSF</span><br><span class="line">$ ./setup.sh</span><br></pre></td></tr></table></figure></li><li><p>Open Dashboard at localhost:8000 and upload your apk file</p><img src="/blog/2020/05/18/MobSF/MobSF_upload.png" class="" title="Upload apk file"></li><li><p>Wait till the scanning finishes and evaluate report</p><img src="/blog/2020/05/18/MobSF/MobSF_dashboard.png" class="" title="This is an example image"></li></ol><p>Being a developer you should focus on these parts:</p><ul><li>Security Score</li><li>Exported Activities, Services, Receivers and Providers</li><li>Certificate Status</li><li>Application Permissions - the less you need the better</li><li>Manifest Analysis - check the severity of issues</li><li>Code Analysis - insecure access, temporary files created, SQL injection warning, hardcoded strings (keys, emails, passwords), sensitive information logging, exposed URLs</li></ul><p>From the business standpoint of view this report may present a worthy bonus for your customer. Thanks to this report both you and your customer will secure their interests and most importantly, release shamelessly!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Keep-an-eye-on-attack-vectors-with-MobSF&quot;&gt;&lt;a href=&quot;#Keep-an-eye-on-attack-vectors-with-MobSF&quot; class=&quot;headerlink&quot; title=&quot;Keep an eye on attack vectors with MobSF&quot;&gt;&lt;/a&gt;Keep an eye on attack vectors with MobSF&lt;/h1&gt;&lt;p&gt;Your shiny new Android app is almost done and you are heading for release. Your most valuable assets are baked inside your app, yet there is one last crucial measurement your app should undertake to ensure its security.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="https://sirionrazzer.github.io/blog/categories/dev/"/>
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/categories/dev/android/"/>
+    
+    
+      <category term="android" scheme="https://sirionrazzer.github.io/blog/tags/android/"/>
+    
+      <category term="pentesting" scheme="https://sirionrazzer.github.io/blog/tags/pentesting/"/>
+    
+  </entry>
+  
+</feed>
